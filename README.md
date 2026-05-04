@@ -6,7 +6,7 @@ This project uses a Conda environment to install Python and all required package
 
 Before starting, install:
 
-- [Anaconda](https://www.anaconda.com/download) or [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
+- [Miniconda](https://www.anaconda.com/download/success) or [Anaconda](https://www.anaconda.com/download/success) 
 - Python `>=3.7` and `<3.13`
 
 > Note: If you install Anaconda or Miniconda, you do not need to install Python separately. Conda will create the correct Python version for this tutorial.
@@ -102,21 +102,21 @@ Use the `cd` command to move into the folder that contains `environment.yml`.
 For example, on macOS or Windows:
 
 ```sh
-cd path/to/example-folder
+cd path/to/Abil_tutorial
 ```
 
-Replace `path/to/example-folder` with the actual path on your computer.
+Replace `path/to/Abil_tutorial` with the actual path on your computer.
 
 For example:
 
 ```sh
-cd Downloads/abil-example
+cd Downloads/Abil_tutorial
 ```
 
 If the folder path contains spaces, wrap it in quotes:
 
 ```sh
-cd "Downloads/abil example"
+cd "Downloads/another folder/Abil_tutorial"
 ```
 
 You can check that you are in the correct folder by listing the files.
