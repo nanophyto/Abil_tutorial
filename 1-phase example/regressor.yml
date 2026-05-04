@@ -1,6 +1,6 @@
 ---
-  root: /home/mv23682/Documents/Abil_tutorial/
-  local_root: /home/mv23682/Documents/Abil_tutorial/
+  root: ./
+  local_root: ./
 
 
   run_name: pp_na
