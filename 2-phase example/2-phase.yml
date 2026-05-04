@@ -6,7 +6,9 @@
   path_in:  predictions/ens/ #root + folder
 
   prediction: data/env_data_so.csv #root + folder
+  prediction: data/env_data_so.csv #root + folder
   targets: data/traits.csv #root + folder
+  training: data/training_g_hux_so.csv
   training: data/training_g_hux_so.csv
 
   predictors: ["temperature", "no3", "o2", "PAR"]
