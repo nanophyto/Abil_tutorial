@@ -1,6 +1,6 @@
 ---
   root: ./
-  run_name: ghux_na #update for specific run name
+  run_name: ghux_so #update for specific run name
 
   path_out:  ModelOutput/ #root + folder
   path_in:  predictions/ens/ #root + folder
