@@ -1,5 +1,5 @@
 ---
-  root: /home/mv23682/Documents/Abil_tutorial/
+  root: ./
   run_name: ghux_na #update for specific run name
 
   path_out:  ModelOutput/ #root + folder
