@@ -10,8 +10,7 @@ Ensure you have the following installed on your system:
 Run the following command to install the package with Anaconda:
 
 ```sh
-conda create -n Abil_tutorial python=3.11 pip
-conda activate Abil_tutorial
-pip install abil
+conda env create -f environment.yml
+conda activate abil-tutorial-env
 ```
 
